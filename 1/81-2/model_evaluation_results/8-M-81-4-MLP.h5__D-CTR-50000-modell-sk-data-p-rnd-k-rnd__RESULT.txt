@@ -1,0 +1,56 @@
+Validation Ergebnisse
+----------------------------------------
+- P - p min acc: 23.4375
+- P - p mitt acc: 50.0511875
+- P - p max acc: 75.0
+
+----------------------------------------
+- K - k min acc: 25.0
+- K - k mitt acc: 49.98840625
+- K - k max acc: 75.0
+
+----------------------------------------
+
+----------------------------------------
+Ergebnisse der Vorhersageanalyse: p_true_bin <-> p_pred_bin
+
+ Accuracy:      0.501
+ Precision:     0.501
+ Recall:        0.438
+ F1-Score:      0.467
+ ROC-AUC:       0.501
+ Treffer:       1601638 von 3200000
+ p-Wert:        0.03357  → Signifikant
+
+----------------------------------------
+Ergebnisse der Vorhersageanalyse: k_true_bin <-> k_pred_bin
+
+ Accuracy:      0.500
+ Precision:     0.500
+ Recall:        0.625
+ F1-Score:      0.556
+ ROC-AUC:       0.500
+ Treffer:       1599629 von 3200000
+ p-Wert:        0.66106  → Nicht signifikant
+
+----------------------------------------
+p_true_hex
+Keine Wiederholende Werte 
+
+----------------------------------------
+p_pred_hex
+Anzahl der Einzelwerte: 28
+Wert: 6172627171737371, 7171707171717071, 7171707170717171, 6261717370716173, 7060617371607071, 7260617771606071, 7161706770707360, 7172707171737371, 7171707071717170, 6061717170717171, 7170707070717170 wiederholt sich 1  Mal 
+Wert: 7170707070717171 wiederholt sich 49538 Mal 
+
+----------------------------------------
+k_true_hex
+Keine Wiederholende Werte 
+
+----------------------------------------
+k_pred_hex
+Anzahl der Einzelwerte: 1
+Wert: 36ea5e35ff583fec wiederholt sich 50000  Mal 
+Wert: 36ea5e35ff583fec wiederholt sich 50000 Mal 
+
+----------------------------------------
