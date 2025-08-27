@@ -1,0 +1,142 @@
+Training Summary
+========================================
+Total Epochs: 9
+
+  k_out_auc_1
+- Final Value: 0.5071
+- Max Value: 0.5071
+- Min Value: 0.5000
+- Average: 0.5035
+
+  k_out_binary_accuracy
+- Final Value: 0.5052
+- Max Value: 0.5052
+- Min Value: 0.5000
+- Average: 0.5026
+
+  k_out_loss
+- Final Value: 0.6932
+- Max Value: 0.6937
+- Min Value: 0.6932
+- Average: 0.6933
+
+  k_out_precision_1
+- Final Value: 0.5052
+- Max Value: 0.5052
+- Min Value: 0.5000
+- Average: 0.5026
+
+  k_out_recall_1
+- Final Value: 0.5053
+- Max Value: 0.5053
+- Min Value: 0.4974
+- Average: 0.5021
+
+  loss
+- Final Value: 1.2625
+- Max Value: 1.2646
+- Min Value: 1.2625
+- Average: 1.2629
+
+  p_out_auc
+- Final Value: 0.7218
+- Max Value: 0.7218
+- Min Value: 0.7199
+- Average: 0.7212
+
+  p_out_binary_accuracy
+- Final Value: 0.6398
+- Max Value: 0.6398
+- Min Value: 0.6378
+- Average: 0.6392
+
+  p_out_loss
+- Final Value: 0.5694
+- Max Value: 0.5709
+- Min Value: 0.5694
+- Average: 0.5697
+
+  p_out_precision
+- Final Value: 0.6255
+- Max Value: 0.6255
+- Min Value: 0.6228
+- Average: 0.6248
+
+  p_out_recall
+- Final Value: 0.5809
+- Max Value: 0.5810
+- Min Value: 0.5802
+- Average: 0.5807
+
+  val_k_out_auc_1
+- Final Value: 0.4999
+- Max Value: 0.5000
+- Min Value: 0.4999
+- Average: 0.4999
+
+  val_k_out_binary_accuracy
+- Final Value: 0.4999
+- Max Value: 0.5000
+- Min Value: 0.4999
+- Average: 0.5000
+
+  val_k_out_loss
+- Final Value: 0.6933
+- Max Value: 0.6933
+- Min Value: 0.6932
+- Average: 0.6933
+
+  val_k_out_precision_1
+- Final Value: 0.4998
+- Max Value: 0.4999
+- Min Value: 0.4998
+- Average: 0.4999
+
+  val_k_out_recall_1
+- Final Value: 0.4780
+- Max Value: 0.5541
+- Min Value: 0.4772
+- Average: 0.5075
+
+  val_loss
+- Final Value: 1.2628
+- Max Value: 1.2631
+- Min Value: 1.2628
+- Average: 1.2629
+
+  val_p_out_auc
+- Final Value: 0.7210
+- Max Value: 0.7210
+- Min Value: 0.7208
+- Average: 0.7210
+
+  val_p_out_binary_accuracy
+- Final Value: 0.6390
+- Max Value: 0.6391
+- Min Value: 0.6387
+- Average: 0.6390
+
+  val_p_out_loss
+- Final Value: 0.5696
+- Max Value: 0.5698
+- Min Value: 0.5696
+- Average: 0.5696
+
+  val_p_out_precision
+- Final Value: 0.6227
+- Max Value: 0.6290
+- Min Value: 0.6170
+- Average: 0.6234
+
+  val_p_out_recall
+- Final Value: 0.5882
+- Max Value: 0.6094
+- Min Value: 0.5648
+- Average: 0.5856
+
+  learning_rate
+- Final Value: 0.0000
+- Max Value: 0.0000
+- Min Value: 0.0000
+- Average: 0.0000
+
