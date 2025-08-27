@@ -1,0 +1,118 @@
+Training Summary
+========================================
+Total Epochs: 12
+
+  k_out_binary_accuracy
+- Final Value: 0.5005
+- Max Value: 0.5005
+- Min Value: 0.4999
+- Average: 0.5001
+
+  k_out_loss
+- Final Value: 0.6931
+- Max Value: 0.6937
+- Min Value: 0.6931
+- Average: 0.6932
+
+  k_out_precision_1
+- Final Value: 0.5005
+- Max Value: 0.5005
+- Min Value: 0.4998
+- Average: 0.5001
+
+  k_out_recall_1
+- Final Value: 0.4724
+- Max Value: 0.4966
+- Min Value: 0.4492
+- Average: 0.4857
+
+  loss
+- Final Value: 0.6931
+- Max Value: 0.6942
+- Min Value: 0.6931
+- Average: 0.6933
+
+  p_out_binary_accuracy
+- Final Value: 1.0000
+- Max Value: 1.0000
+- Min Value: 0.9999
+- Average: 1.0000
+
+  p_out_loss
+- Final Value: 0.0000
+- Max Value: 0.0005
+- Min Value: 0.0000
+- Average: 0.0000
+
+  p_out_precision
+- Final Value: 1.0000
+- Max Value: 1.0000
+- Min Value: 0.9998
+- Average: 1.0000
+
+  p_out_recall
+- Final Value: 1.0000
+- Max Value: 1.0000
+- Min Value: 0.9998
+- Average: 1.0000
+
+  val_k_out_binary_accuracy
+- Final Value: 0.4999
+- Max Value: 0.5003
+- Min Value: 0.4998
+- Average: 0.5000
+
+  val_k_out_loss
+- Final Value: 0.6932
+- Max Value: 0.6932
+- Min Value: 0.6932
+- Average: 0.6932
+
+  val_k_out_precision_1
+- Final Value: 0.5003
+- Max Value: 0.5007
+- Min Value: 0.5002
+- Average: 0.5004
+
+  val_k_out_recall_1
+- Final Value: 0.4826
+- Max Value: 0.5626
+- Min Value: 0.3795
+- Average: 0.4865
+
+  val_loss
+- Final Value: 0.6932
+- Max Value: 0.6932
+- Min Value: 0.6932
+- Average: 0.6932
+
+  val_p_out_binary_accuracy
+- Final Value: 1.0000
+- Max Value: 1.0000
+- Min Value: 1.0000
+- Average: 1.0000
+
+  val_p_out_loss
+- Final Value: 0.0000
+- Max Value: 0.0000
+- Min Value: 0.0000
+- Average: 0.0000
+
+  val_p_out_precision
+- Final Value: 1.0000
+- Max Value: 1.0000
+- Min Value: 1.0000
+- Average: 1.0000
+
+  val_p_out_recall
+- Final Value: 1.0000
+- Max Value: 1.0000
+- Min Value: 1.0000
+- Average: 1.0000
+
+  learning_rate
+- Final Value: 0.0001
+- Max Value: 0.0010
+- Min Value: 0.0001
+- Average: 0.0005
+
