@@ -1,0 +1,56 @@
+Validation Ergebnisse
+----------------------------------------
+- P - p min acc: 43.75
+- P - p mitt acc: 63.875
+- P - p max acc: 81.25
+
+----------------------------------------
+- K - k min acc: 31.25
+- K - k mitt acc: 49.9078125
+- K - k max acc: 71.875
+
+----------------------------------------
+
+----------------------------------------
+Ergebnisse der Vorhersageanalyse: p_true_bin <-> p_pred_bin
+
+ Accuracy:      0.639
+ Precision:     0.614
+ Recall:        0.614
+ F1-Score:      0.614
+ ROC-AUC:       0.637
+ Treffer:       40880 von 64000
+ p-Wert:        0.00000  → Signifikant
+
+----------------------------------------
+Ergebnisse der Vorhersageanalyse: k_true_bin <-> k_pred_bin
+
+ Accuracy:      0.499
+ Precision:     0.501
+ Recall:        0.532
+ F1-Score:      0.516
+ ROC-AUC:       0.499
+ Treffer:       31941 von 64000
+ p-Wert:        0.68096  → Nicht signifikant
+
+----------------------------------------
+p_true_hex
+Keine Wiederholende Werte 
+
+----------------------------------------
+p_pred_hex
+Anzahl der Einzelwerte: 10
+Wert: 7171707171717171, 7171707071717070, 7071717070707071, 7071707070707071 wiederholt sich 1  Mal 
+Wert: 7171707071717171 wiederholt sich 973 Mal 
+
+----------------------------------------
+k_true_hex
+Keine Wiederholende Werte 
+
+----------------------------------------
+k_pred_hex
+Anzahl der Einzelwerte: 49
+Wert: 7dc2662b4f4a01fd, 79c4476f074f81eb, 75c6773f4766815d, 21c4477d076fc14b, 688d876d074f41eb, 7fc2762b4762057d, 79c4473f074fc1eb, 79c4476f074fc1eb, 61c4473f074f89eb, 77c6762b4762055d, 68c5c77d074fc1eb, 21c4477f076fc16b, 79d4672b474f01eb, 65c6463d474e99eb, 78c5477d074fc1eb, 69c4477f074f81eb, 78c5477f074fc1eb, 75c2762b474291fd, 2586657c475fd853, 25c6657c474fd853, 68c5477d074fc1eb, 75c6773f474e816b, 25c6757e476fd953, 79c4672f474e81eb, 61c4477f074fc96b, 7c82672b4d6a87fd, 75c6773f476e817f, 6582663d4d0a99fd, 6546657d4f4f997b, 6586663d474e99eb, 6582643d4d0a99fd, 79c4672b474e81ff, 7dc2762b4d6205fd wiederholt sich 1  Mal 
+Wert: 69c4473f074fc1eb wiederholt sich 827 Mal 
+
+----------------------------------------

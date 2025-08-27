@@ -1,0 +1,42 @@
+System Information Report - 2025-08-21 22:32:33
+============================================================
+
+GPU Info:
+Thu Aug 21 22:32:33 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 550.54.15              Driver Version: 550.54.15      CUDA Version: 12.4     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA L4                      Off |   00000000:00:03.0 Off |                    0 |
+| N/A   76C    P0             34W /   72W |    2255MiB /  23034MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
++-----------------------------------------------------------------------------------------+
+
+RAM Info:
+Total RAM: 56.9 GB
+High-RAM runtime detected
+
+CPU Info:
+Processor: x86_64
+Logical Cores: 12
+Physical Cores: 6
+Max Frequency: 0.00 MHz
+Current Frequency: 2200.24 MHz
+
+Disk Info:
+Total Disk Size: 120.9 GB
+Free Space: 78.9 GB
+
+System Environment:
+OS: Linux 6.1.123+ (#1 SMP PREEMPT_DYNAMIC Sun Mar 30 16:01:29 UTC 2025)
+Python Version: 3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]
