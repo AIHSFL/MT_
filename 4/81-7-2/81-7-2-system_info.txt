@@ -1,0 +1,24 @@
+System Information Report - 2025-08-24 14:05:56
+============================================================
+
+GPU Info:
+/bin/bash: line 1: nvidia-smi: command not found
+
+RAM Info:
+Total RAM: 185.7 GB
+High-RAM runtime detected
+
+CPU Info:
+Processor: x86_64
+Logical Cores: 44
+Physical Cores: 22
+Max Frequency: 0.00 MHz
+Current Frequency: 2600.00 MHz
+
+Disk Info:
+Total Disk Size: 241.9 GB
+Free Space: 216.2 GB
+
+System Environment:
+OS: Linux 6.1.123+ (#1 SMP PREEMPT_DYNAMIC Sun Mar 30 16:01:29 UTC 2025)
+Python Version: 3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]
